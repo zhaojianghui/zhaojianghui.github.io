@@ -5,7 +5,7 @@ define(['jquery'],function($){
 	  conter.bind('input propertychange',function(){ 
 	  	    var that=$(this);
             $.ajax({
-	      	url:'https://suggestion.baidu.com/su',
+	      	url:'http://suggestion.baidu.com/su',
 	      	dataType:'jsonp',
 	      	data:{
 	      		wd: that.val()
