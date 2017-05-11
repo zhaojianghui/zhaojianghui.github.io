@@ -1,0 +1,54 @@
+{
+	"goods_id": 10001,
+	"goods_pic_large": "img/lar1.jpg",
+	"color": {
+		"1000101": {
+			"id": "1000101",
+			"type": "东北明珠",
+			"goods_name": "【30天鲜磨新米】中粮初萃 东北明珠大米5kg",
+			"goods_pic_small": "img/sm11.jpg ",
+			"sale_price": "29.93",
+			"stock": 12
+		},
+		"1000102": {
+			"id": "1000102",
+			"type": "中粮一号优选",
+			"goods_name": "【30天鲜磨新米】中粮初萃 中粮一号优选大米5kg",
+			"goods_pic_small": "img/sm11.jpg ",
+			"sale_price": "39.92",
+			"stock": 16
+		},
+		"1000103": {
+			"id": "1000103",
+			"type": "五常香米",
+			"goods_name": "【30天鲜磨新米】中粮初萃 五常香米大米5kg",
+			"goods_pic_small": "img/sm11.jpg ",
+			"sale_price": "69.30",
+			"stock": 21
+		},
+		"1000104": {
+			"id": "1000104",
+			"type": "五常稻花香",
+			"goods_name": "【30天鲜磨新米】中粮初萃 五常稻花香大米5kg",
+			"goods_pic_small": "img/sm11.jpg ",
+			"sale_price": "59.91",
+			"stock": 39
+		},
+		"1000105": {
+			"id": "1000105",
+			"type": "秋田小町",
+			"goods_name": "【30天鲜磨新米】中粮初萃 秋田小町大米5kg",
+			"goods_pic_small": "img/sm11.jpg ",
+			"sale_price": "49.92",
+			"stock": 49
+		},
+		"1000106": {
+			"id": "1000106",
+			"type": "东北龙粳稻",
+			"goods_name": "【30天鲜磨新米】中粮初萃 东北龙粳稻大米5kg",
+			"goods_pic_small": "img/sm11.jpg ",
+			"sale_price": "59.93",
+			"stock": 56
+		}
+	}
+}

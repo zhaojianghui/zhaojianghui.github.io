@@ -1,0 +1,275 @@
+body, html, div, img, span, p, li, ul, a, i, dl, dd, dt, h3, input, form, button {
+  margin: 0;
+  padding: 0;
+}
+
+/*+++++++++++++++++++++++++++++++log+++++++++++++++++++++++++++++++++++++++*/
+.log {
+  width: 100%;
+  height: 88px;
+}
+
+.log .logOne {
+  width: 1000px;
+  height: 88px;
+  margin: 0 auto;
+  border-bottom: 2px solid #479202;
+}
+
+.log .logOne div {
+  width: 100%;
+  height: 80px;
+  padding-top: 8px;
+}
+
+/*+++++++++++++++++++++++++++++++enter+++++++++++++++++++++++++++++++++++++++*/
+.enter {
+  width: 100%;
+  height: 500px;
+}
+
+.enter .enterOne {
+  position: relative;
+  width: 1000px;
+  height: 500px;
+  margin: 0 auto;
+  padding-top: 27px;
+  border-top: 1px solid #94bd2b;
+}
+
+.enter .enterOne .enter-left {
+  width: 100%;
+  height: 500px;
+}
+
+.enter .enterOne .enter-right {
+  position: absolute;
+  top: 58px;
+  left: 11px;
+  width: 374px;
+  height: 436px;
+  border: 5px solid #dcdddd;
+  background: #f7f8f8;
+}
+
+.enter .enterOne .enter-right .right-top {
+  width: 374px;
+  height: 395px;
+  border: 1px solid #fff;
+}
+
+.enter .enterOne .enter-right .right-top form {
+  width: 306px;
+  height: 216px;
+  margin-left: 36px;
+  font-size: 12px;
+  border-bottom: 1px dashed #B5B5B6;
+}
+
+.enter .enterOne .enter-right .right-top form p:nth-of-type(1) {
+  width: 100%;
+  font-size: 12px;
+  color: #595757;
+  margin: 26px 0 26px 0px;
+}
+
+.enter .enterOne .enter-right .right-top form p:nth-of-type(1) span:nth-child(1) {
+  font-size: 18px;
+}
+
+.enter .enterOne .enter-right .right-top form p:nth-of-type(1) span:nth-child(2) {
+  margin-left: 96px;
+}
+
+.enter .enterOne .enter-right .right-top form p:nth-of-type(1) span:nth-child(3) {
+  color: #8CB91E;
+  cursor: pointer;
+}
+
+.enter .enterOne .enter-right .right-top form input {
+  width: 306px;
+  height: 28px;
+  outline: none;
+  border: 1px solid #ccc;
+  color: #aaa;
+}
+
+.enter .enterOne .enter-right .right-top form input:nth-of-type(1) {
+  margin-bottom: 26px;
+}
+
+.enter .enterOne .enter-right .right-top form input:nth-of-type(2) {
+  margin-bottom: 26px;
+}
+
+.enter .enterOne .enter-right .right-top form input:nth-of-type(3) {
+  margin-bottom: 26px;
+}
+
+.enter .enterOne .enter-right .right-top form input:nth-of-type(5) {
+  width: 12px;
+  height: 12px;
+  margin-left: 0px;
+  font-size: 12px;
+}
+
+.enter .enterOne .enter-right .right-top form .usecon1 {
+  position: absolute;
+  left: 37px;
+  top: 104px;
+  width: 308px;
+}
+
+.enter .enterOne .enter-right .right-top form .usecon1 span {
+  width: 308px;
+  height: 25px;
+  line-height: 25px;
+  color: #FF8080;
+  font-size: 12px;
+  background: #FFEBEC;
+}
+
+.enter .enterOne .enter-right .right-top form p:nth-of-type(3) {
+  position: absolute;
+  left: 37px;
+  top: 160px;
+  width: 308px;
+}
+
+.enter .enterOne .enter-right .right-top form p:nth-of-type(3) span {
+  width: 308px;
+  height: 25px;
+  color: #FF8080;
+  font-size: 12px;
+  background: #FFEBEC;
+  line-height: 25px;
+}
+
+.enter .enterOne .enter-right .right-top form .pswdcon1 {
+  position: absolute;
+  left: 37px;
+  top: 216px;
+  width: 308px;
+}
+
+.enter .enterOne .enter-right .right-top form .pswdcon1 span {
+  width: 308px;
+  height: 25px;
+  color: #FF8080;
+  font-size: 12px;
+  background: #FFEBEC;
+  line-height: 25px;
+}
+
+.enter .enterOne .enter-right .right-top form .pswdcon2 {
+  position: absolute;
+  left: 37px;
+  top: 271px;
+  width: 308px;
+}
+
+.enter .enterOne .enter-right .right-top form .pswdcon2 span {
+  width: 308px;
+  height: 25px;
+  color: #FF8080;
+  font-size: 12px;
+  background: #FFEBEC;
+  line-height: 25px;
+}
+
+.enter .enterOne .enter-right .right-top form .yzmt {
+  position: absolute;
+  left: 37px;
+  top: 328px;
+  width: 308px;
+}
+
+.enter .enterOne .enter-right .right-top form .yzmt span {
+  width: 308px;
+  height: 25px;
+  color: #FF8080;
+  font-size: 12px;
+  background: #FFEBEC;
+  line-height: 25px;
+}
+
+.enter .enterOne .enter-right .right-top form p:nth-of-type(6) {
+  width: 100%;
+  height: 26px;
+  line-height: 26px;
+  text-align: right;
+}
+
+.enter .enterOne .enter-right .right-top form div {
+  height: 28px;
+}
+
+.enter .enterOne .enter-right .right-top form div input {
+  width: 172px;
+  height: 28px;
+  float: left;
+}
+
+.enter .enterOne .enter-right .right-top form div .yzk {
+  float: left;
+  width: 80px;
+  height: 28px;
+  margin: 0;
+  margin-left: 50px;
+  margin-bottom: 30px;
+}
+
+.enter .enterOne .enter-right .right-top form div .yzk img {
+  width: 100%;
+}
+
+.enter .enterOne .enter-right .right-top form button {
+  float: left;
+  width: 210px;
+  height: 30px;
+  line-height: 30px;
+  outline: none;
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+  margin: 16px 16px 20px 0;
+  border-radius: 6px;
+  cursor: pointer;
+  background: url(../img/login.png) no-repeat -2px -7px;
+}
+
+.enter .enterOne .enter-right .right-top form .yqm {
+  float: left;
+  width: 80px;
+  height: 30px;
+  margin: 16px 0 20px;
+  outline: none;
+  line-height: 30px;
+  text-align: center;
+  font-size: 12px;
+  color: #479202;
+  cursor: pointer;
+}
+
+/*++++++++++++++++++++++++about+++++++++++++++++++++++++++++++*/
+.about {
+  width: 100%;
+  height: 126px;
+  margin-top: 40px;
+}
+
+.about .aboutOne {
+  width: 100%;
+  height: 88px;
+  font-size: 12px;
+  text-align: center;
+  color: #606060;
+  line-height: 30px;
+  background: #efefef;
+}
+
+.about .aboutTwo {
+  width: 100%;
+  height: 28px;
+  background: #8CB91E;
+}
