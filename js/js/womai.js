@@ -121,6 +121,10 @@ define(['jquery'],function($){
             })
                 
            })
+       $(".shop-lie.one").click(function(){
+             location.href="gwc.html"
+                
+           })
        
 	})
 })
