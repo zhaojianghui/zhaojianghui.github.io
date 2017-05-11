@@ -28,7 +28,7 @@ define(['jquery'],function($){
 	           	    var h=$(this).html();
 	           	    conter.val(h);
 	           	    con.html('');
-	           	    location.href='https://www.baidu.com/s?wd='+conter.val();
+	           	    location.href='http://www.baidu.com/s?wd='+conter.val();
 	           	    conter.val('')
 	           })
 
